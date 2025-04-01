@@ -1,0 +1,2 @@
+[01-Apr-2025 15:32:05 UTC] Cron reschedule event error for hook: wp_update_plugins, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[01-Apr-2025 16:28:44 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\smart\Local Sites\khams-blog\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
